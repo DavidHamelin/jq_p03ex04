@@ -1,0 +1,23 @@
+﻿body{
+    height: 500px;
+    width: 75%;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-around;
+}
+button{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 100px;
+    height: 50px;
+}
+#shape
+{
+    width: 200px;
+    height: 50px;
+    background: red;
+    border: 3px solid black;
+    margin-top: 10%;
+}
